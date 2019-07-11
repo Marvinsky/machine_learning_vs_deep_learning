@@ -11,7 +11,7 @@ such as:
 
 <img src="img/diagram.png" width=80%>
 
-After completing the theory part, I am going to show two real-world problems from Machine Learning and Deep Learning.
+After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
 
 Hope you enjoy this Webinar!
 
