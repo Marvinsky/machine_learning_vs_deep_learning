@@ -80,7 +80,9 @@ See [Pong AI witg Policy Gradients](https://www.youtube.com/watch?time_continue=
 
 * Pictionary with CNN: [QuickDraw](https://quickdraw.withgoogle.com/#)
 
-*
+* Intelligent Flying Machines [IFM](https://www.youtube.com/watch?v=AMDiR61f86Y)
+
+* Natural Neural Network to change your look: [FaceApp](https://www.digitaltrends.com/photography/faceapp-neural-net-image-editing/)
 
 
 After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
