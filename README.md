@@ -62,7 +62,7 @@ for every point in our dataset:
 
 #### 5.1.- Matrix Factorization
 
-<img src="img/matrix_factorization.png" width=40%>
+<img src="img/matrix_factorization.png" width=30%>
 
 #### 5.3.- Singular Value Decomposition
 
@@ -70,16 +70,24 @@ for every point in our dataset:
 
 ### [6.- Deep Reinforcement Learning Systems](https://deepmind.com/research/dqn/)
 
+#### 7.1.- Atari Game
+
 See [Pong AI witg Policy Gradients](https://www.youtube.com/watch?time_continue=53&v=YOW8m2YGtRg)
 
-### [7.- Deep Learning]
+#### 7.2.- DeepMind - AlphaGo vs Lee Sedol
 
+<img src="img/alphago.jpg" width=40%> <img src="img/alphago.jepg" width=40%>
+
+### 7.- Deep Learning
 
 #### 7.1.- What is it used for?
 
 Pretty much, everywhere. Recent applications include things such as beating humans in games such as Go, or even jeopardy, detecting spam in emails, forecasting stock prices, recognizing images in a picture, and even diagnosing illnesses with more precision than doctors. One of the most celebrated applications in deep learning is self-driving cars. 
 
 What is the heart of deep learning? The wonderful object called Neural Networks. Neural Networks mimic the process of how the brain operates, with neurons that fire bits of information. 
+
+<img src="">
+
 
 #### 7.2.- More Applications
 
