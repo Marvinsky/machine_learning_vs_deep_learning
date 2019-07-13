@@ -45,7 +45,7 @@ for every point in our dataset:
     return the majority class label from the k closest neighbors
 ```
 
-### 4.- [Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+### [4.- Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
 
 #### 4.1.- K-means
 
@@ -56,6 +56,17 @@ for every point in our dataset:
 ##### Lossy Data Compression
 
 <img src="img/clustering.png" width=60%>
+
+
+### [5.- Recommendation Systems](https://en.wikipedia.org/wiki/Recommender_system)
+
+#### 5.1.- Matrix Factorization
+
+<img src="img/matrix_factorization.png" width=50%>
+
+#### 5.3.- Singular Value Decomposition
+
+<img src="singular_value_decomposition.png" width=40%>
 
 
 After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
