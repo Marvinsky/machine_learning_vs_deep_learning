@@ -74,6 +74,15 @@ See [Pong AI witg Policy Gradients](https://www.youtube.com/watch?time_continue=
 
 ### [7.- Deep Learning]
 
+
+#### 7.1.- What is it used for?
+
+Pretty much, everywhere. Recent applications include things such as beating humans in games such as Go, or even jeopardy, detecting spam in emails, forecasting stock prices, recognizing images in a picture, and even diagnosing illnesses with more precision than doctors. One of the most celebrated applications in deep learning is self-driving cars. 
+
+What is the heart of deep learning? The wonderful object called Neural Networks. Neural Networks mimic the process of how the brain operates, with neurons that fire bits of information. 
+
+#### 7.2.- More Applications
+
 * Train AI to talk [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 * CNN for [text classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
