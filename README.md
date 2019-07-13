@@ -68,6 +68,9 @@ for every point in our dataset:
 
 <img src="img/singular_value_decomposition.png" width=40%>
 
+### [6.- Deep Reinforcement Learning Systems](https://deepmind.com/research/dqn/)
+
+
 
 After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
 
