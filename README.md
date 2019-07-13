@@ -62,7 +62,7 @@ for every point in our dataset:
 
 #### 5.1.- Matrix Factorization
 
-<img src="img/matrix_factorization.png" width=50%>
+<img src="img/matrix_factorization.png" width=40%>
 
 #### 5.3.- Singular Value Decomposition
 
