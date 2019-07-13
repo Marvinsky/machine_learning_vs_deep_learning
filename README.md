@@ -51,11 +51,11 @@ for every point in our dataset:
 
 ##### Optimization Function
 
-<img src="img/objective_function_kmeans.png">
+<img src="img/objective_function_kmeans.png" width=40%>
 
-##### Applications
+##### Lossy Data Compression
 
-<img src="img/clustering.png">
+<img src="img/clustering.png" width=60%>
 
 
 After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
