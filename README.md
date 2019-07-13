@@ -70,13 +70,13 @@ for every point in our dataset:
 
 ### [6.- Deep Reinforcement Learning Systems](https://deepmind.com/research/dqn/)
 
-#### 7.1.- Atari Game
+#### 6.1.- Atari Game
 
 See [Pong AI witg Policy Gradients](https://www.youtube.com/watch?time_continue=53&v=YOW8m2YGtRg)
 
-#### 7.2.- DeepMind - AlphaGo vs Lee Sedol
+#### 6.2.- DeepMind - AlphaGo vs Lee Sedol
 
-<img src="img/alphago.jpg" width=40%> <img src="img/alphago.jepg" width=40%>
+<img src="img/alphago.jpg" width=40%> <img src="img/alphago.jpeg" width=40%>
 
 ### 7.- Deep Learning
 
