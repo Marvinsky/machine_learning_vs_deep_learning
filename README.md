@@ -9,7 +9,7 @@ such as:
 
 * Definitions, Neural Networks, Architectures of Deep Learning.
 
-<img src="img/diagram.png" width=80%>
+<img src="img/diagram.png" width=50%>
 
 ### Approaches of Machine Learning
 
@@ -26,13 +26,13 @@ such as:
 ### kNN
 >Pseudo Code:
 
->for every point in our dataset:
+```for every point in our dataset:
     calculate the distance between the current point and input_vector
     sort the distances in increasing order
     take k items with lowest disances to input_vector
     find the majority class among these items
     return the majority class label from the k closest neighbors
-
+```
 <img src="img/classification.png" width=50%>
 
 
