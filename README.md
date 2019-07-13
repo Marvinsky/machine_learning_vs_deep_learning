@@ -70,6 +70,17 @@ for every point in our dataset:
 
 ### [6.- Deep Reinforcement Learning Systems](https://deepmind.com/research/dqn/)
 
+See [Pong AI witg Policy Gradients](https://www.youtube.com/watch?time_continue=53&v=YOW8m2YGtRg)
+
+### [7.- Deep Learning]
+
+* Train AI to talk [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
+
+* CNN for [text classification](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+
+* Pictionary with CNN: [QuickDraw](https://quickdraw.withgoogle.com/#)
+
+*
 
 
 After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
