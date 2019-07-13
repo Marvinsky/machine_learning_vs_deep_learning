@@ -1,6 +1,6 @@
 ## Machine Learning vs Deep Learning
 
-Generally speaking, in this Webinar we are going to learn that Deep Learning is a subset of Machine Learning.
+Generally speaking, in this Webinar we are going to learn that Deep Learning is a subset of Machine Learning and when to apply Machine Learning (Prediction based on Historical Data) and Deep Learning (Prediction applications in: Image Recognition, object Recognition, etc.)
 
 In order to know the important things of these areas of Artificial Intelligence we we need to understand concepts
 such as:
@@ -15,7 +15,7 @@ such as:
 
 <img src="img/approaches.png" width=50%>
 
-### 2.- Linear Regression
+### [2.- Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 
 <img src="img/linear_regression.png" width=50%>
 
@@ -23,7 +23,7 @@ such as:
 
 <img src="img/classification.png" width=50%>
 
-#### 3.1.- Support Vector Machine
+#### [3.1.- Support Vector Machine](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
 <img src="img/support_vector_machine.png" width=30%>
 
@@ -31,7 +31,7 @@ such as:
 
 <img src="img/clustering_distance.png" width=40%>
 
-#### 3.2.- K-Nearest Neighbors (KNN)
+#### [3.2.- K-Nearest Neighbors (KNN)](https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/)
 
 >Pseudo Code:
 ```
