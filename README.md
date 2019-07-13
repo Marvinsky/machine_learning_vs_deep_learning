@@ -66,7 +66,7 @@ for every point in our dataset:
 
 #### 5.3.- Singular Value Decomposition
 
-<img src="singular_value_decomposition.png" width=40%>
+<img src="img/singular_value_decomposition.png" width=40%>
 
 
 After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
