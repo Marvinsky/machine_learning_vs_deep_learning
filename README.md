@@ -17,6 +17,8 @@ such as:
 
 ### [2.- Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 
+See [Predicting House's price using Linear Regression](machine_learning_vs_deep_learning/Predicting House's price using Linear Regression.ipynb)
+
 <img src="img/linear_regression.png" width=50%>
 
 ### 3.- Classification
