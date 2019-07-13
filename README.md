@@ -45,6 +45,19 @@ for every point in our dataset:
     return the majority class label from the k closest neighbors
 ```
 
+### 4.- [Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
+
+#### 4.1.- K-means
+
+##### Optimization Function
+
+<img src="img/objective_function_kmeans.png">
+
+##### Applications
+
+<img src="img/clustering.png">
+
+
 After completing the theory part, we are going to show two real-world problems from Machine Learning and Deep Learning.
 
 Hope you enjoy this Webinar!
