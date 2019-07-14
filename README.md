@@ -76,7 +76,7 @@ See [Pong AI witg Policy Gradients](https://www.youtube.com/watch?time_continue=
 
 #### 6.2.- DeepMind - AlphaGo vs Lee Sedol
 
-<img src="img/alphago.jpg" width=40%> <img src="img/alphago.jpeg" width=40%>
+<img src="img/alphago.jpg" width=40%> <img src="img/alphago.jpeg" width=40% height=40%>
 
 ### 7.- Deep Learning
 
@@ -86,7 +86,11 @@ Pretty much, everywhere. Recent applications include things such as beating huma
 
 What is the heart of deep learning? The wonderful object called Neural Networks. Neural Networks mimic the process of how the brain operates, with neurons that fire bits of information. 
 
-<img src="">
+#### 7.2.- Neural Network
+
+<img src="img/deep-neural-networks.png" width=40%>  
+
+<img src="img/neurons0.png" width=40%>  <img src="img/neurons.png" width=40%>  
 
 
 #### 7.2.- More Applications
