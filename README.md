@@ -72,7 +72,7 @@ for every point in our dataset:
 
 #### 6.1.- Atari Game
 
-See [Pong AI witg Policy Gradients](https://www.youtube.com/watch?time_continue=53&v=YOW8m2YGtRg)
+See [Pong AI with Policy Gradients](https://www.youtube.com/watch?time_continue=53&v=YOW8m2YGtRg)
 
 #### 6.2.- DeepMind - AlphaGo vs Lee Sedol
 
@@ -90,10 +90,15 @@ What is the heart of deep learning? The wonderful object called Neural Networks.
 
 <img src="img/deep-neural-networks.png" width=40%>  
 
+#### 7.2.- Perceptron
+
 <img src="img/neurons.png" width=80%>  
 
+#### 7.3.- Architectures
 
-#### 7.2.- More Applications
+<img src="img/architectures.jpg" width=90%>
+
+#### 7.3.- More Applications
 
 * Train AI to talk [WaveNet](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
