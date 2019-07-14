@@ -90,7 +90,7 @@ What is the heart of deep learning? The wonderful object called Neural Networks.
 
 <img src="img/deep-neural-networks.png" width=40%>  
 
-<img src="img/neurons0.png" width=40% height=20%>  <img src="img/neurons.png" width=40%>  
+<img src="img/neurons.png" width=40%>  
 
 
 #### 7.2.- More Applications
