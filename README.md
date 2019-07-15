@@ -80,6 +80,8 @@ See [Pong AI with Policy Gradients](https://www.youtube.com/watch?time_continue=
 
 ### 7.- Deep Learning
 
+See [Image Classification - Multi-Layer Perceptron - MNIST](https://github.com/Marvinsky/machine_learning_vs_deep_learning/blob/master/Image%20Classification%20-%20Multi-Layer%20Perceptron%20-%20MNIST.ipynb)
+
 #### 7.1.- What is it used for?
 
 Pretty much, everywhere. Recent applications include things such as beating humans in games such as Go, or even jeopardy, detecting spam in emails, forecasting stock prices, recognizing images in a picture, and even diagnosing illnesses with more precision than doctors. One of the most celebrated applications in deep learning is self-driving cars. 
